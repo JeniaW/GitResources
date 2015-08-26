@@ -1,1 +1,2 @@
 Official Git documentation: http://git-scm.com/doc
+http://speckyboy.com/2013/06/03/resources-for-learning-git/
